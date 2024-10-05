@@ -1,0 +1,83 @@
+/* Fontes para Títulos e Destaques */
+
+/* Bangers
+Estilo: Fonte expressiva com um toque de quadrinhos.
+Uso: Ótima para títulos, seções de destaque e cabeçalhos.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+/* Fredericka the Great
+Estilo: Fonte com estilo manuscrito e artístico.
+Uso: Títulos e manchetes para destacar o conteúdo relacionado a mangás e quadrinhos. 
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+/* Special Elite
+Estilo: Fonte com um estilo mecanografado e informal.
+Uso: Pode ser usada para dar um ar mais estilizado a títulos de seções especiais ou capas.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+
+
+/* Fontes para Textos Longos (Corpo do Texto) */
+
+/* Roboto 
+Estilo: Fonte sans-serif moderna, muito popular e legível.
+Uso: Para o corpo do texto, sinopses de mangás e descrições gerais.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Open Sans
+Estilo: Uma das fontes mais utilizadas na web, conhecida por sua clareza e legibilidade.
+Uso: Corpo de texto, descrições e parágrafos longos.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+/* Lato
+Estilo: Outra fonte sans-serif, com um toque mais amigável e arredondado.
+Uso: Corpo de texto, resenhas e sinopses.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+
+
+/* Fontes para Subtítulos e Seções de Destaque */
+
+/* Oswald
+Estilo: Uma fonte condensada, elegante e ótima para subtítulos.
+Uso: Subtítulos e chamadas curtas.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap');
+
+/* Raleway
+Estilo: Fonte clean e elegante, mas com personalidade.
+Uso: Subtítulos e seções que precisam de mais ênfase visual.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+
+
+/* Fontes com Estilo Japonês (Para Identidade Visual) */
+
+/* Kaushan Script
+Estilo: Fonte com uma sensação "caligráfica" que pode evocar um estilo mais tradicional.
+Uso: Títulos ou destaques para dar um toque artístico.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+/* M PLUS 1p
+Estilo: Fonte com inspiração japonesa, simples e moderna.
+Uso: Subtítulos, pequenos destaques.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap');
